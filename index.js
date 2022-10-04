@@ -5,7 +5,7 @@ const connectToDb = require("./database/db");
 
 connectToDb();
 const app = express();
-const port = 5000;
+const port = 3333;
 
 app.set("view engine", "ejs");
 app.use(express.static(path.join(__dirname, "public")));
