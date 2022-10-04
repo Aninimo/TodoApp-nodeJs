@@ -12,4 +12,4 @@ app.use(express.static(path.join(__dirname, "public")));
 app.use(express.urlencoded());
 app.use(routes);
 
-app.listen(port);
+app.listen(port, '0.0.0.0');
