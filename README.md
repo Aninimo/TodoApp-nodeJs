@@ -7,7 +7,7 @@ A Task List created with nodeJs where it
 is possible to add, mark when finished, 
 delete and edit tasks.
 
-## Technologies used 
+## Technologies used 💻
 ● NodeJs
 <br/>
 ● Express
